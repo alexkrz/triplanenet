@@ -1,0 +1,11 @@
+# Install the following dependencies into a conda environment with python=3.12
+torch==2.12.*
+torchvision==0.27.*
+tqdm>=4.70,<5
+requests>=2.34,<3
+opencv-python>=4.14,<5
+matplotlib>=3.11,<4
+pytorch-msssim>=1.0,<2
+plyfile>=1.1,<2
+scikit-image>=0.26,<1
+mrcfile>=1.5,<2
